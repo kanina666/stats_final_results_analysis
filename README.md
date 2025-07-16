@@ -1,0 +1,1 @@
+In this work, as part of the course Statistics and Data Analysis, the final scores for the linear algebra course of ITMO University's basic mathematics students were analyzed in terms of practical and lecture streams. The question was answered: is there a significant difference between the streams?
